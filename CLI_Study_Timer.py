@@ -85,7 +85,7 @@ def fiftytwoseventeen():
 #Asking to the user which method they want to use to help them study, pomodoro or 5217. 
 choice = input("Which study timer do you want to use, pomodoro or 5217? ")
 
-#There are 2 possible answers. The user will wither choose pomodoro or 5217 method. Any other answers will cause an error and the app will close itself.
+#There are 2 possible answers. The user will either choose pomodoro or 5217 method. Any other answers will cause an error and the app will close itself.
 if(choice == "pomodoro"):
     pomodoro()
 elif(choice == "5217"):
