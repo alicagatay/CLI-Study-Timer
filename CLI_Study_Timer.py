@@ -70,8 +70,8 @@ def fiftytwoseventeen():
                 notify(title = 'Session Change', message  = 'Take a break')
                 print()
                 print()
-            
-    
+
+
         c = c - 1
         t = 69
     print("5217 session finished.")
@@ -82,7 +82,7 @@ def fiftytwoseventeen():
 
 
 
-#Asking to the user which method they want to use to help them study, pomodoro or 5217. 
+#Asking to the user which method they want to use to help them study, pomodoro or 5217.
 choice = input("Which study timer do you want to use, pomodoro or 5217? ")
 
 #There are 2 possible answers. The user will either choose pomodoro or 5217 method. Any other answers will cause an error and the app will close itself.
